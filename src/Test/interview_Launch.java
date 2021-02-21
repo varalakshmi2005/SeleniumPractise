@@ -79,7 +79,7 @@ public class interview_Launch {
 					 //xpath("//span[contains(text(),'Login')]/../../button"));
 			 
 			 LoginButton.click();
-			 Thread.sleep(10000);
+			 Thread.sleep(20000);
              driver.close();    
 		
         //WebElement conti=driver.findElement(By.xpath("//*[@id='checkUser']"));
